@@ -1,0 +1,2 @@
+# funny
+all_file
