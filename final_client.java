@@ -118,7 +118,7 @@ public class Client1{
 	
 	public static void main(String[] args) throws IOException
 	{
-		Client1 k = new Client1("이한범");
+		Client1 k = new Client1("hanse");
 		k.receive();
 	}
 }
