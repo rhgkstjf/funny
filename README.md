@@ -1,2 +1,1 @@
-# java_chatting
-all_file
+# 자바 다중 사용자 채팅
